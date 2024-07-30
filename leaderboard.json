@@ -1,1 +1,14 @@
-
+[
+    {
+        "username": "user1",
+        "score": 1000
+    },
+    {
+        "username": "user2",
+        "score": 1500
+    },
+    {
+        "username": "user3",
+        "score": 500
+    }
+]
