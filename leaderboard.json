@@ -10,5 +10,9 @@
   {
     "Username": "user3",
     "Score": 500
+  },
+  {
+    "Username": "user4",
+    "Score": 25
   }
 ]
